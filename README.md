@@ -1,16 +1,13 @@
-# cvpro
 
-A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="screenShot/splash.png" width="300"> 
+<img src="screenShot/onborading.png" width="300"> 
+<img src="screenShot/Sing.png" width="300"> 
+<img src="screenShot/HomeSkiil.png" width="300"> 
+<img src="screenShot/profile.png" width="300">
+<img src="screenShot/profile1.png" width="300">
+<img src="screenShot/job.png" width="300">
+<img src="screenShot/jobdone.png" width="300">
+<img src="screenShot/path.png" width="300">
+<img src="screenShot/lectures.png" width="300">
+<img src="screenShot/group1.png" width="300">
